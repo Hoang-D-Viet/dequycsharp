@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\indaysodaonguoc\bin\Debug\net8.0\indaysodaonguoc.exe
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\indaysodaonguoc\bin\Debug\net8.0\indaysodaonguoc.deps.json
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\indaysodaonguoc\bin\Debug\net8.0\indaysodaonguoc.runtimeconfig.json
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\indaysodaonguoc\bin\Debug\net8.0\indaysodaonguoc.dll
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\indaysodaonguoc\bin\Debug\net8.0\indaysodaonguoc.pdb
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\indaysodaonguoc\obj\Debug\net8.0\indaysodaonguoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\indaysodaonguoc\obj\Debug\net8.0\indaysodaonguoc.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\indaysodaonguoc\obj\Debug\net8.0\indaysodaonguoc.AssemblyInfo.cs
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\indaysodaonguoc\obj\Debug\net8.0\indaysodaonguoc.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\indaysodaonguoc\obj\Debug\net8.0\indaysodaonguoc.dll
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\indaysodaonguoc\obj\Debug\net8.0\refint\indaysodaonguoc.dll
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\indaysodaonguoc\obj\Debug\net8.0\indaysodaonguoc.pdb
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\indaysodaonguoc\obj\Debug\net8.0\indaysodaonguoc.genruntimeconfig.cache
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\indaysodaonguoc\obj\Debug\net8.0\ref\indaysodaonguoc.dll

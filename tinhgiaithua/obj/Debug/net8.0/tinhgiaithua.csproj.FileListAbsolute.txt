@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tinhgiaithua\bin\Debug\net8.0\tinhgiaithua.exe
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tinhgiaithua\bin\Debug\net8.0\tinhgiaithua.deps.json
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tinhgiaithua\bin\Debug\net8.0\tinhgiaithua.runtimeconfig.json
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tinhgiaithua\bin\Debug\net8.0\tinhgiaithua.dll
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tinhgiaithua\bin\Debug\net8.0\tinhgiaithua.pdb
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tinhgiaithua\obj\Debug\net8.0\tinhgiaithua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tinhgiaithua\obj\Debug\net8.0\tinhgiaithua.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tinhgiaithua\obj\Debug\net8.0\tinhgiaithua.AssemblyInfo.cs
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tinhgiaithua\obj\Debug\net8.0\tinhgiaithua.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tinhgiaithua\obj\Debug\net8.0\tinhgiaithua.dll
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tinhgiaithua\obj\Debug\net8.0\refint\tinhgiaithua.dll
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tinhgiaithua\obj\Debug\net8.0\tinhgiaithua.pdb
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tinhgiaithua\obj\Debug\net8.0\tinhgiaithua.genruntimeconfig.cache
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tinhgiaithua\obj\Debug\net8.0\ref\tinhgiaithua.dll

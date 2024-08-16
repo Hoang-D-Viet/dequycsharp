@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\uscln\obj\Debug\net8.0\uscln.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\uscln\obj\Debug\net8.0\uscln.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\uscln\obj\Debug\net8.0\uscln.AssemblyInfo.cs
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\uscln\obj\Debug\net8.0\uscln.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\uscln\bin\Debug\net8.0\uscln.exe
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\uscln\bin\Debug\net8.0\uscln.deps.json
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\uscln\bin\Debug\net8.0\uscln.runtimeconfig.json
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\uscln\bin\Debug\net8.0\uscln.dll
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\uscln\bin\Debug\net8.0\uscln.pdb
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\uscln\obj\Debug\net8.0\uscln.dll
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\uscln\obj\Debug\net8.0\refint\uscln.dll
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\uscln\obj\Debug\net8.0\uscln.pdb
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\uscln\obj\Debug\net8.0\uscln.genruntimeconfig.cache
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\uscln\obj\Debug\net8.0\ref\uscln.dll

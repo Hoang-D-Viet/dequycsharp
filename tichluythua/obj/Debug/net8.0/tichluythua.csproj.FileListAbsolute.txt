@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tichluythua\bin\Debug\net8.0\tichluythua.exe
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tichluythua\bin\Debug\net8.0\tichluythua.deps.json
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tichluythua\bin\Debug\net8.0\tichluythua.runtimeconfig.json
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tichluythua\bin\Debug\net8.0\tichluythua.dll
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tichluythua\bin\Debug\net8.0\tichluythua.pdb
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tichluythua\obj\Debug\net8.0\tichluythua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tichluythua\obj\Debug\net8.0\tichluythua.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tichluythua\obj\Debug\net8.0\tichluythua.AssemblyInfo.cs
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tichluythua\obj\Debug\net8.0\tichluythua.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tichluythua\obj\Debug\net8.0\tichluythua.dll
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tichluythua\obj\Debug\net8.0\refint\tichluythua.dll
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tichluythua\obj\Debug\net8.0\tichluythua.pdb
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tichluythua\obj\Debug\net8.0\tichluythua.genruntimeconfig.cache
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\tichluythua\obj\Debug\net8.0\ref\tichluythua.dll

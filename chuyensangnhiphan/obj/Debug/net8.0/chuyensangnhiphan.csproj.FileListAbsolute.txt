@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\chuyensangnhiphan\obj\Debug\net8.0\chuyensangnhiphan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\chuyensangnhiphan\obj\Debug\net8.0\chuyensangnhiphan.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\chuyensangnhiphan\obj\Debug\net8.0\chuyensangnhiphan.AssemblyInfo.cs
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\chuyensangnhiphan\obj\Debug\net8.0\chuyensangnhiphan.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\chuyensangnhiphan\bin\Debug\net8.0\chuyensangnhiphan.exe
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\chuyensangnhiphan\bin\Debug\net8.0\chuyensangnhiphan.deps.json
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\chuyensangnhiphan\bin\Debug\net8.0\chuyensangnhiphan.runtimeconfig.json
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\chuyensangnhiphan\bin\Debug\net8.0\chuyensangnhiphan.dll
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\chuyensangnhiphan\bin\Debug\net8.0\chuyensangnhiphan.pdb
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\chuyensangnhiphan\obj\Debug\net8.0\chuyensangnhiphan.dll
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\chuyensangnhiphan\obj\Debug\net8.0\refint\chuyensangnhiphan.dll
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\chuyensangnhiphan\obj\Debug\net8.0\chuyensangnhiphan.pdb
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\chuyensangnhiphan\obj\Debug\net8.0\chuyensangnhiphan.genruntimeconfig.cache
+C:\Users\admin\Desktop\cấu trúc dữ liệu và giải thuật\đệ quy\chuyensangnhiphan\obj\Debug\net8.0\ref\chuyensangnhiphan.dll
